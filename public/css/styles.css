@@ -1,0 +1,18 @@
+button{
+background-color:#ffad99;
+
+}
+.b1{
+  background-color:#4CAF50;;
+  border-radius: 12px;
+  padding: 8px 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.panel{
+  background-color:  #ffc2b3;
+}
+.panel-heading{
+  color:#ff9980;
+  font-family: 'Sofia';
+  font-size: 22px;
+}

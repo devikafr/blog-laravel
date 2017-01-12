@@ -39,8 +39,8 @@
                         {{ config('app.name', 'Laravel') }}
                     </a>
                     @if(Auth::check())
-                    <a href="{{url('/heroes')}}">heroes</a>
-                    <a href="{{url('/hero/new')}}">Create</a>
+                    <button><a href="{{url('/heroes')}}">heroes</a></button>
+                    <button><a href="{{url('/hero/new')}}">Create</a></button>
                     @endif
                 </div>
 
